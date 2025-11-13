@@ -4,7 +4,7 @@ def input_dataset():
     global dataset
 
     print("\nChoose data type:")
-    print("1. 1D Dataset (Example: 10 20 30)")
+    print("1. 1D Dataset")
     print("2. 2D Dataset")
     choice = input("Enter your choice (1 or 2): ")
 
